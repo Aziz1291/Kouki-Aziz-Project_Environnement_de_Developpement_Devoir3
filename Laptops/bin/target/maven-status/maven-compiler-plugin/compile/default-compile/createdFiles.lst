@@ -1,0 +1,3 @@
+com\example\Laptops\entities\Laptop.class
+com\example\Laptops\repos\LaptopRepository.class
+com\example\Laptops\LaptopsApplication.class
